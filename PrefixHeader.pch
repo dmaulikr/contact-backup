@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  Contact BackUp
+//
+//  Created by nestcode on 8/10/18.
+//  Copyright © 2018 nestcode. All rights reserved.
+//
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+#endif
+
